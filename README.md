@@ -1,2 +1,4 @@
-# link-clock
-Ableton Link Clock
+# Link Clock
+
+Modular Clock linked to Ableton Link
+
